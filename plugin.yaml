@@ -1,0 +1,9 @@
+name: vezz-me
+version: "1.0.0"
+description: "Contextual AI reading assistant, webpage text extraction, and prompt preset engine for Hermes Agent. Powered by Vezz me."
+author: mosmn
+homepage: https://vezz.me
+category: web
+provides_tools:
+  - vezz_extract_reading_context
+  - vezz_format_prompt_preset
